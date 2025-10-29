@@ -83,16 +83,5 @@ mealfinder/
 
 
 
-### 🙏 Acknowledgments
-TheMealDB for providing the recipe API
-React Bootstrap for UI components
-Unsplash for hero images
-Built with ❤️ using React and Vite
-
-
-
-
-
-
 
 
