@@ -80,6 +80,7 @@ mealfinder/
 └── README.md
 
 
+
 ### 🙏 Acknowledgments
 TheMealDB for providing the recipe API
 React Bootstrap for UI components
