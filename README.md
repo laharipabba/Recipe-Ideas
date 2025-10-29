@@ -64,6 +64,7 @@ cd mealfinder
 
 ### 📁 Project Structure
 
+```plaintext
 mealfinder/
 ├── public/
 │   └── vite.svg
@@ -78,6 +79,7 @@ mealfinder/
 ├── vite.config.js
 ├── index.html
 └── README.md
+
 
 
 
